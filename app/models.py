@@ -94,6 +94,8 @@ class Pitch(db.Model):
         Pitch.all_pitches.clear()
 
     # display pitches
+# sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "categories" does not exist
+# 2019-08-06T12:53:08.183999+00:00 app[web.1]: LINE 2: FROM categories
 
     def get_pitches(id):
         pitches = Pitch.query.filter_by(category_id=id).all()
