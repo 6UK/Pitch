@@ -1,6 +1,6 @@
 # Minute Pitch
 
-### By **Ramza Reseni**, 
+### By **NJOROGE KARUGU**, 
 #### Published date **15/04/18**
  ---
 ## Description
@@ -8,13 +8,13 @@ A web application that allows the users to post pitches, comment and vote on pit
 
 ---
 
-#### This [link](https://github.com/ramza007/MinutePitch/) will take to my live site on Git Hub.
+#### This [link](/) will take to my live site on Git Hub.
 
 ---
 
 ## Setup/Installation Requirements
 
-* open my [GitHub](https://github.com/ramza007)
+* open my [GitHub]()
 * find repo named *Minute Pitch*
 * $ cd MinutePitch
 * $ python3.6 -m venv virtual (install virtual environment)
@@ -30,6 +30,5 @@ A web application that allows the users to post pitches, comment and vote on pit
 * PostgreSQL
 ---
 
-### License under [***MIT***](https://github.com/ramza007/MinutePitch/blob/master/LICENSE)
+### License under [***MIT***]()
 
-Copyright (C) 2018 ~ Reseni
