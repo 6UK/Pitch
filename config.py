@@ -20,7 +20,7 @@ class Config:
 # PGUSER=njoroge PGPASSWORD=njoro1234 heroku pg:push pitches HEROKU_POSTGRESQL_YELLOW -minutespitch
 
 class ProdConfig(Config): 
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://njoroge:njoro1234@localhost/njoroge'
+    SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
 
 
 class DevConfig(Config):
