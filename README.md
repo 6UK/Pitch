@@ -1,8 +1,8 @@
-# Minute Pitch
+# Minutespitch########
 
 ### By **NJOROGE KARUGU**
 
-## Description
+## Description####
 A web application that allows the users to post pitches and add comments 
 
 ---
