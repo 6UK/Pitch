@@ -1,8 +1,7 @@
 # Minute Pitch
 
-### By **NJOROGE KARUGU**, 
-#### Published date **15/04/18**
- ---
+### By **NJOROGE KARUGU**
+
 ## Description
 A web application that allows the users to post pitches and add comments 
 
