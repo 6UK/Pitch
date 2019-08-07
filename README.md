@@ -4,17 +4,17 @@
 #### Published date **15/04/18**
  ---
 ## Description
-A web application that allows the users to post pitches, comment and vote on pitches.
+A web application that allows the users to post pitches and add comments 
 
 ---
 
-#### This [link](/) will take to my live site on Git Hub.
+#### This [link](https://github.com/6UK/Pitch) will take to my live site on Git Hub.
 
 ---
 
 ## Setup/Installation Requirements
 
-* open my [GitHub]()
+* open my [GitHub](https://github.com/6UK/Pitch)
 * find repo named *Minute Pitch*
 * $ cd MinutePitch
 * $ python3.6 -m venv virtual (install virtual environment)
@@ -30,5 +30,5 @@ A web application that allows the users to post pitches, comment and vote on pit
 * PostgreSQL
 ---
 
-### License under [***MIT***]()
+### License under [***MIT***]
 
