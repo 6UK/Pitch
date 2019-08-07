@@ -11,7 +11,7 @@ A web application that allows the users to post pitches and add comments
 
 ---
 
-## Setup/Installation Requirements
+## Setup/Installation Requirements#####
 
 * open my [GitHub](https://github.com/6UK/Pitch)
 * find repo named *Minute Pitch*
