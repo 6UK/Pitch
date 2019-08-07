@@ -7,9 +7,9 @@ A web application that allows the users to post pitches and add comments
 
 ---
 
-#### This [link](https://github.com/6UK/Pitch)this link will direct you to my Pitch Account..
+#### This [link] ( https://github.com/6UK/Pitch)this link will direct you to my Pitch Account####
 
----
+
 
 ## Setup/Installation Requirements#####
 
