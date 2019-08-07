@@ -7,7 +7,7 @@ A web application that allows the users to post pitches and add comments
 
 ---
 
-#### This [link](https://github.com/6UK/Pitch) will take to my live site on Git Hub.
+#### This [link](https://github.com/6UK/Pitch) will take to my live site on Git Hub..
 
 ---
 
